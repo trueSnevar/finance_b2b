@@ -4,3 +4,4 @@ djangorestframework-jsonapi
 django-filter
 gunicorn
 psycopg2-binary
+whitenoise
