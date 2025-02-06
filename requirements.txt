@@ -1,0 +1,6 @@
+Django>=4.2
+djangorestframework
+djangorestframework-jsonapi
+django-filter
+gunicorn
+psycopg2-binary
